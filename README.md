@@ -13,5 +13,5 @@ The portfolio highlights my journey through projects involving **data visualizat
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript  
-- Backend & Data: Python, SQL  
+- Backend : Python, SQL  
 - Tools: VS Code, Power BI, Jupyter Notebook
